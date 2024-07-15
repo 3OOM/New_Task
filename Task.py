@@ -30,7 +30,6 @@ class Bike(Vehicle):
 
 
 
-
 my_car =Car(make="Supra")
 my_bike =Bike(bike_type="Sports")
 
